@@ -1,6 +1,6 @@
 /*
 ===============================================================================
- Script Name : 03. Bulk Insert Staging Table.sql
+ Script Name : 02. Bulk Insert Staging Table.sql
  Project     : E-Commerce Operations Intelligence Dashboard
  Author      : Godwin Deborah Onoriode
  Description : Loads the CSV dataset into the staging table using SQL Server's BULK INSERT command. 
